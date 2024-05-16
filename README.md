@@ -6,7 +6,7 @@ My Expense Tracker is a simple web application built with HTML, CSS, and JavaScr
 
 1. **Login and Sign Up:** Users can create an account or log in to their existing account to access the expense tracking functionalities.
 
-2. **AI Integration:** The expense tracker utilizes AI to provide personalized insights and suggestions based on the user's spending patterns.
+2. **AI Integration:** The expense tracker utilizes AI to provide personalized insights and suggestions based on the user's spending patterns. AI functionality is integrated with Gemini, providing advanced analytics and recommendations.
 
 3. **Payment Integration:** Seamlessly integrate payment gateways to allow users to make payments directly from the application. We use Razorpay API for secure and efficient payment processing.
 
@@ -34,6 +34,14 @@ To integrate payment gateway using Razorpay API, follow these steps:
 1. Sign up for a Razorpay account at [https://razorpay.com](https://razorpay.com).
 2. Obtain your API keys from Razorpay dashboard.
 3. Use Razorpay API documentation to implement payment processing in your application.
+
+## AI Integration with Gemini
+
+To integrate AI functionality with Gemini, follow these steps:
+
+1. Sign up for a Gemini account at [https://gemini.com](https://gemini.com).
+2. Obtain your API keys from the Gemini dashboard.
+3. Use Gemini API documentation to implement AI analytics and recommendations in your application.
 
 ## Chart Visualization with Chart.js
 
